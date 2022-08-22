@@ -1,0 +1,32 @@
+bank:
+  name: ABB
+  opened: 1990
+  head.office: Baku
+  offices:
+    - Baku 28
+    - Baku Khatai
+    - Sumgait 1
+    - Nakhchivan
+  contacts:
+    - phone: 123456
+      email: info@abb.az
+    - phone: 654321
+      email: info@2abb.az
+  addresses:
+    Sumgayit: Sulh 20
+    Baki: Nizami St
+  branches:
+    1:
+      name: Sumgait
+      address: Sulh St
+    2:
+      name: Baki Main
+      address: Nizami St
+company:
+  name: ABB
+  opened: 1990
+  head.office: Baku
+  offices:
+    - A
+    - B
+    - C

@@ -1,0 +1,5 @@
+rootProject.name = 'ms10gradle-spring'
+include 'submodule1'
+include 'submodule2'
+
+println "Hello World from setting gradle"

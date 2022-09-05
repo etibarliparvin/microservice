@@ -1,4 +1,10 @@
-package ms10groovy
+def age = 1
+println("Hello ${age} Groovy");
 
-class hello {
-}
+def myFunction = {println("Hello Groovy")};
+
+myFunction.call();
+
+def clos = {param -> println("Hello ${param}")}
+
+clos.call("World");
